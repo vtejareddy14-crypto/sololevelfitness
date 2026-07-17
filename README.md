@@ -112,7 +112,7 @@ Or just visit the live site: [sololevelfitness.netlify.app](https://sololevelfit
 
 ## 🏷️ Tech Stack
 
-`HTML5` `CSS3` `JavaScript` `Firebase Auth` `Firebase Firestore` `Leaflet.js` `GPS Geolocation API` `Kaggle Dataset` `Netlify`
+`HTML5` `CSS3` `JavaScript (ES6+)` `Firebase Authentication` `Firebase Firestore` `Firebase Realtime Database` `Leaflet.js` `GPS Geolocation API` `OpenStreetMap` `Kaggle Dataset` `Netlify` `Responsive Design` `CSV Parsing` `XLSX Data` `DOM Manipulation` `Local Storage` `Fetch API`
 
 ---
 
