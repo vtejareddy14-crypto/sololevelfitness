@@ -1,7 +1,3 @@
-/* ===================================================
-   app.js - Solo Level Fitness (Full working version)
-   Replaces previous app.js. Keep your dashboard.html as-is.
-   =================================================== */
 
 /* ---------- FIREBASE CONFIG ---------- */
 /* ---------- UI Notification Helper ---------- */
@@ -1043,7 +1039,7 @@ async function buildCommunityComparison(uid){
 
 /* ========== DOM ready fallback ========== */
 document.addEventListener('DOMContentLoaded', () => {
-  // Nothing required here because auth guard calls init; but keep safety:
+ 
   // If user is already signed in, initDashboard will have been called by auth.onAuthStateChanged above.
 });
 
